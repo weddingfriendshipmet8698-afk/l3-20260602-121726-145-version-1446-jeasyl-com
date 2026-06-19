@@ -1,0 +1,22 @@
+{
+  "movie_records": 2000,
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "category_assigned_movies": 2000,
+  "html_pages": 2014,
+  "baidu_missing_pages": [],
+  "local_image_files": [],
+  "hls_sources": 20,
+  "category_distribution": {
+    "精选剧集": 200,
+    "国产热播": 200,
+    "日韩剧集": 200,
+    "欧美片库": 200,
+    "悬疑惊悚": 200,
+    "动作冒险": 200,
+    "喜剧合家欢": 200,
+    "爱情剧情": 200,
+    "奇幻动画": 200,
+    "年度新片": 200
+  }
+}
